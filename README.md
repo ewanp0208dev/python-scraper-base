@@ -1,2 +1,2 @@
-# transfermarkt-scraping-tool
-Tool to scrape players, squads and teams from Transfermarkt
+# python-scraper-base
+Base implementation of BS4 and requests, implementing a session, caching and random user agents
